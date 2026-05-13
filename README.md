@@ -1,6 +1,6 @@
 Project Title: Hybrid subdomain Enumeration Tool
 
-Technology: Python
+Technology: Python 
 
 Project Description:
 This project is a lightweight hybrid subdomain enumeration tool developed in
