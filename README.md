@@ -1,9 +1,5 @@
 Project Title: Hybrid subdomain Enumeration Tool
 
-Student Name: KHUSHI
-Roll No: 2211023 / 7113646
-Degree: B.Tech
-Semester: VII
 Technology: Python
 
 Project Description:
